@@ -1,0 +1,29 @@
+{
+  "type": "video",
+  "title": "Big Buck Bunny tells the story of a giant rabbit with a heart bigger than himself. When one sunny day three rodents rudely harass him, something snaps... and the rabbit ain't no bunny anymore! In the typical cartoon tradition he prepares the nasty rodents a comical revenge.\n\nLicensed under the Creative Commons Attribution license\nhttp://www.bigbuckbunny.org",
+  "sources": [
+    {
+      "src": "https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8",
+      "type": "video/mp4"
+    }
+  ],
+  "poster": "https://q5n8c8q9.rocketcdn.me/wp-content/uploads/2019/09/YouTube-thumbnail-size-guide-best-practices-top-examples.png.webp",
+  "previewThumbnails": {
+    "src": "/path/to/thumbnails.vtt"
+  },
+  "tracks": [
+    {
+      "kind": "captions",
+      "label": "English",
+      "srclang": "en",
+      "src": "/path/to/captions.en.vtt",
+      "default": true
+    },
+    {
+      "kind": "captions",
+      "label": "French",
+      "srclang": "fr",
+      "src": "/path/to/captions.fr.vtt"
+    }
+  ]
+}
